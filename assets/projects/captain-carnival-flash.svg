@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <defs><linearGradient id="sky" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#dbeafe"/><stop offset="1" stop-color="#fef3c7"/></linearGradient><linearGradient id="r" x1="0" x2="1"><stop offset="0" stop-color="#f59e0b"/><stop offset="1" stop-color="#ef4444"/></linearGradient></defs>
+  <rect width="1200" height="720" fill="url(#sky)"/>
+  <circle cx="980" cy="120" r="80" fill="#fbbf24" opacity=".9"/>
+  <path d="M0 560c230-70 405-55 590 10 230 80 430 45 610-24v174H0Z" fill="#16a34a" opacity=".78"/>
+  <g transform="translate(146 118)">
+    <path d="M0 215c95-140 195-190 330-105 105-90 235-92 338 0 118-48 210 8 278 104v240H0Z" fill="#ffffff" opacity=".85"/>
+    <rect x="125" y="188" width="695" height="185" rx="38" fill="url(#r)" stroke="#7c2d12" stroke-width="8"/>
+    <text x="174" y="285" font-family="Arial Black, Arial" font-size="64" fill="#fff" stroke="#7c2d12" stroke-width="3">CAPTAIN</text>
+    <text x="200" y="355" font-family="Arial Black, Arial" font-size="64" fill="#fff" stroke="#7c2d12" stroke-width="3">CARNIVAL</text>
+    <circle cx="100" cy="165" r="58" fill="#fbbf24" stroke="#92400e" stroke-width="8"/><text x="72" y="182" font-family="Arial" font-size="42" font-weight="900" fill="#92400e">G</text>
+    <path d="M755 74l55 116h-110Z" fill="#ef4444"/><path d="M630 54l55 136h-110Z" fill="#2456d3"/><path d="M500 70l55 120h-110Z" fill="#f59e0b"/>
+    <rect x="735" y="385" width="130" height="56" rx="16" fill="#071a36"/><text x="761" y="423" font-family="Arial" font-size="28" font-weight="800" fill="#facc15">Flash</text>
+  </g>
+</svg>
